@@ -1,8 +1,8 @@
 
 '''This is classifier for MNIST dataset. First we have to import our mnist_loader 
 which takes care of loading and preprocessing our data. We import 
-support vector machine(svm) from sklearn. i really like this approach to the problem,
-because it is simple and uses not so popular svm.'''
+support vector machine(svm) from sklearn. This solution is simple and
+uses not so popular svm with great efficiency.'''
 
 
 import loader 
